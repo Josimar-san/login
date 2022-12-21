@@ -11,4 +11,4 @@ document.querySelector('#email').addEventListener('focus', function(e) {
     });
 });
 
-document.querySelector
+document.querySelector('#password').addEventListener()
